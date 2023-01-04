@@ -1,0 +1,44 @@
+body{
+background-size:cover;
+}
+
+.DJ_title{
+color: rgb(52, 188, 140);
+text-shadow: 5px 5px 3px blue;
+box-shadow: 20px 20px 20px 10px blue;
+font-size:35px ;
+}
+
+.img_speed,.img_volume{
+width:200px;
+border-radius:100px;
+}
+
+.speed{
+float:left;
+
+}
+
+.volume{
+float:right;
+}
+
+.untitled{
+color:red;
+font-size: 25px;
+}
+h4{
+     font-size: 25px;
+
+}
+
+canvas{
+     border-radius: 25px;
+}
+
+#btn_play{
+     background-color:darkblue ;
+     font-size: 25px;
+     color: whitesmoke;
+     border-radius: 15px;
+}
