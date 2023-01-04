@@ -19,7 +19,7 @@ function setup(){
 
 function draw(){
      image(video,0,0,500,400);
-     fill("black");
+     fill("red");
      stroke("blue");
      circle(RightWX,RightWY,25);
      if (RightWY>0 && RightWY<=100){
